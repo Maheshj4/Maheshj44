@@ -1,2 +1,2 @@
 # Maheshj44
-sample project
+sample tutorial
